@@ -1,19 +1,34 @@
 {
-  "version": "2.1.0",
+  "version": "2.2.0",
   "count": 218,
-  "compact": true,
+  "format": "rows-v1",
+  "familyNames": [
+    "Ambiente, agro y animales",
+    "Arte, diseño y medios",
+    "Ciencias naturales y exactas",
+    "Ciencias sociales y humanidades",
+    "Construcción, hábitat y territorio",
+    "Deporte y bienestar",
+    "Derecho, gobierno y seguridad",
+    "Educación y desarrollo humano",
+    "Información, cultura y patrimonio",
+    "Ingeniería e infraestructura",
+    "Negocios, economía y gestión",
+    "Oficios técnicos e industria",
+    "Salud y ciencias clínicas",
+    "Tecnología y computación",
+    "Transporte, logística y operaciones",
+    "Turismo, gastronomía y servicios"
+  ],
   "families": "./data/career-families.json",
   "parts": [
-    "./data/career-seeds-01.json",
-    "./data/career-seeds-02.json",
-    "./data/career-seeds-03.json",
-    "./data/career-seeds-04.json",
-    "./data/career-seeds-05.json",
-    "./data/career-seeds-06.json",
-    "./data/career-seeds-07.json",
-    "./data/career-seeds-08.json",
-    "./data/career-seeds-09.json",
-    "./data/career-seeds-10.json",
-    "./data/career-seeds-11.json"
+    "./data/career-rows-01.json",
+    "./data/career-rows-02.json",
+    "./data/career-rows-03.json",
+    "./data/career-rows-04.json",
+    "./data/career-rows-05.json",
+    "./data/career-rows-06.json",
+    "./data/career-rows-07.json",
+    "./data/career-rows-08.json"
   ]
 }
