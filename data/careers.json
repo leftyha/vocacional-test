@@ -1,6 +1,6 @@
 {
-  "version": "2.2.0",
-  "count": 218,
+  "version": "2.3.0",
+  "count": 160,
   "format": "rows-v1",
   "familyNames": [
     "Ambiente, agro y animales",
@@ -22,13 +22,10 @@
   ],
   "families": "./data/career-families.json",
   "parts": [
-    "./data/career-rows-01.json",
-    "./data/career-rows-02.json",
-    "./data/career-rows-03.json",
-    "./data/career-rows-04.json",
-    "./data/career-rows-05.json",
-    "./data/career-rows-06.json",
-    "./data/career-rows-07.json",
-    "./data/career-rows-08.json"
+    "./data/career-spectrum-01.json",
+    "./data/career-spectrum-02.json",
+    "./data/career-spectrum-03.json",
+    "./data/career-spectrum-04.json",
+    "./data/career-spectrum-05.json"
   ]
 }
