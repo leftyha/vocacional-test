@@ -1,0 +1,3507 @@
+{
+  "version": "1.0.0",
+  "careers": [
+    {
+      "id": "ingenieria-de-software",
+      "name": "Ingeniería de software",
+      "family": "Tecnología",
+      "hollandCode": "ICR",
+      "description": "Crear y mejorar productos o sistemas digitales.",
+      "interests": {
+        "R": 55,
+        "I": 100,
+        "A": 18,
+        "S": 18,
+        "E": 18,
+        "C": 75
+      },
+      "aptitudes": {
+        "LOG": 85,
+        "DIG": 90,
+        "ORG": 65,
+        "CREA": 55
+      },
+      "values": {
+        "APR": 90,
+        "ING": 75,
+        "AUT": 65
+      },
+      "constraints": {
+        "EL": 3,
+        "MT": 3,
+        "PN": 4
+      },
+      "hardConstraints": [],
+      "specializations": [
+        "Desarrollo web",
+        "Aplicaciones móviles",
+        "Arquitectura de software"
+      ],
+      "dailyTasks": [
+        "Resolver problemas complejos",
+        "Construir soluciones digitales",
+        "Trabajar con equipos multidisciplinarios"
+      ],
+      "environment": [
+        "digital",
+        "proyectos",
+        "equipo"
+      ]
+    },
+    {
+      "id": "ciencias-de-la-computacion",
+      "name": "Ciencias de la computación",
+      "family": "Tecnología",
+      "hollandCode": "IRC",
+      "description": "Crear y mejorar productos o sistemas digitales.",
+      "interests": {
+        "R": 75,
+        "I": 100,
+        "A": 18,
+        "S": 18,
+        "E": 18,
+        "C": 55
+      },
+      "aptitudes": {
+        "LOG": 90,
+        "NUM": 80,
+        "DIG": 90,
+        "CIE": 65
+      },
+      "values": {
+        "APR": 95,
+        "ING": 75,
+        "AUT": 60
+      },
+      "constraints": {
+        "EL": 3,
+        "MT": 4,
+        "PN": 4
+      },
+      "hardConstraints": [],
+      "specializations": [
+        "Algoritmos",
+        "Sistemas distribuidos",
+        "Computación gráfica"
+      ],
+      "dailyTasks": [
+        "Resolver problemas complejos",
+        "Construir soluciones digitales",
+        "Trabajar con equipos multidisciplinarios"
+      ],
+      "environment": []
+    },
+    {
+      "id": "ciencia-de-datos",
+      "name": "Ciencia de datos",
+      "family": "Tecnología",
+      "hollandCode": "IRC",
+      "description": "Crear y mejorar productos o sistemas digitales.",
+      "interests": {
+        "R": 75,
+        "I": 100,
+        "A": 18,
+        "S": 18,
+        "E": 18,
+        "C": 55
+      },
+      "aptitudes": {
+        "NUM": 90,
+        "LOG": 85,
+        "DIG": 80,
+        "CIE": 75
+      },
+      "values": {
+        "APR": 90,
+        "ING": 80,
+        "AUT": 55
+      },
+      "constraints": {
+        "EL": 3,
+        "MT": 4,
+        "PN": 4
+      },
+      "hardConstraints": [],
+      "specializations": [
+        "Analítica",
+        "Machine learning",
+        "Inteligencia de negocios"
+      ],
+      "dailyTasks": [
+        "Resolver problemas complejos",
+        "Construir soluciones digitales",
+        "Trabajar con equipos multidisciplinarios"
+      ],
+      "environment": []
+    },
+    {
+      "id": "inteligencia-artificial",
+      "name": "Inteligencia artificial",
+      "family": "Tecnología",
+      "hollandCode": "IRC",
+      "description": "Crear y mejorar productos o sistemas digitales.",
+      "interests": {
+        "R": 75,
+        "I": 100,
+        "A": 18,
+        "S": 18,
+        "E": 18,
+        "C": 55
+      },
+      "aptitudes": {
+        "LOG": 90,
+        "NUM": 85,
+        "DIG": 90,
+        "CIE": 75
+      },
+      "values": {
+        "APR": 95,
+        "ING": 85,
+        "PRE": 65
+      },
+      "constraints": {
+        "EL": 3,
+        "MT": 4,
+        "PN": 4
+      },
+      "hardConstraints": [],
+      "specializations": [
+        "Aprendizaje automático",
+        "Visión artificial",
+        "Procesamiento de lenguaje"
+      ],
+      "dailyTasks": [
+        "Resolver problemas complejos",
+        "Construir soluciones digitales",
+        "Trabajar con equipos multidisciplinarios"
+      ],
+      "environment": []
+    },
+    {
+      "id": "ciberseguridad",
+      "name": "Ciberseguridad",
+      "family": "Tecnología",
+      "hollandCode": "ICR",
+      "description": "Crear y mejorar productos o sistemas digitales.",
+      "interests": {
+        "R": 55,
+        "I": 100,
+        "A": 18,
+        "S": 18,
+        "E": 18,
+        "C": 75
+      },
+      "aptitudes": {
+        "LOG": 85,
+        "DIG": 90,
+        "ORG": 80
+      },
+      "values": {
+        "APR": 90,
+        "EST": 75,
+        "ING": 80
+      },
+      "constraints": {
+        "EL": 3,
+        "PN": 4,
+        "RS": 4,
+        "HI": 3
+      },
+      "hardConstraints": [],
+      "specializations": [
+        "Seguridad ofensiva",
+        "Respuesta a incidentes",
+        "Gobierno y riesgo"
+      ],
+      "dailyTasks": [
+        "Resolver problemas complejos",
+        "Construir soluciones digitales",
+        "Trabajar con equipos multidisciplinarios"
+      ],
+      "environment": []
+    },
+    {
+      "id": "diseno-ux-ui",
+      "name": "Diseño UX/UI",
+      "family": "Creatividad y comunicación",
+      "hollandCode": "AIC",
+      "description": "Transformar ideas en mensajes, experiencias o productos expresivos.",
+      "interests": {
+        "R": 18,
+        "I": 75,
+        "A": 100,
+        "S": 18,
+        "E": 18,
+        "C": 55
+      },
+      "aptitudes": {
+        "CREA": 90,
+        "DIG": 80,
+        "INT": 70,
+        "LOG": 60,
+        "ESP": 65
+      },
+      "values": {
+        "CRE": 95,
+        "AUT": 75,
+        "APR": 75
+      },
+      "constraints": {
+        "PN": 4,
+        "DE": 3,
+        "PP": 3
+      },
+      "hardConstraints": [],
+      "specializations": [
+        "Diseño de interfaces",
+        "UX Research",
+        "Diseño de producto digital"
+      ],
+      "dailyTasks": [
+        "Crear conceptos",
+        "Producir piezas o experiencias",
+        "Presentar y mejorar propuestas"
+      ],
+      "environment": [
+        "digital",
+        "creativo",
+        "usuarios"
+      ]
+    },
+    {
+      "id": "ingenieria-informatica",
+      "name": "Ingeniería informática",
+      "family": "Tecnología",
+      "hollandCode": "RIC",
+      "description": "Crear y mejorar productos o sistemas digitales.",
+      "interests": {
+        "R": 100,
+        "I": 75,
+        "A": 18,
+        "S": 18,
+        "E": 18,
+        "C": 55
+      },
+      "aptitudes": {
+        "DIG": 85,
+        "LOG": 80,
+        "ESP": 60,
+        "ORG": 65
+      },
+      "values": {
+        "APR": 85,
+        "ING": 75,
+        "EST": 65
+      },
+      "constraints": {
+        "EL": 3,
+        "MT": 3,
+        "PN": 4
+      },
+      "hardConstraints": [],
+      "specializations": [
+        "Infraestructura",
+        "Desarrollo",
+        "Sistemas empresariales"
+      ],
+      "dailyTasks": [
+        "Resolver problemas complejos",
+        "Construir soluciones digitales",
+        "Trabajar con equipos multidisciplinarios"
+      ],
+      "environment": []
+    },
+    {
+      "id": "gestion-de-seguridad-tecnologica",
+      "name": "Gestión de seguridad tecnológica",
+      "family": "Tecnología",
+      "hollandCode": "ICR",
+      "description": "Crear y mejorar productos o sistemas digitales.",
+      "interests": {
+        "R": 55,
+        "I": 100,
+        "A": 18,
+        "S": 18,
+        "E": 18,
+        "C": 75
+      },
+      "aptitudes": {
+        "LOG": 75,
+        "DIG": 80,
+        "ORG": 85,
+        "VER": 60
+      },
+      "values": {
+        "EST": 80,
+        "APR": 80,
+        "ING": 70
+      },
+      "constraints": {
+        "EL": 3,
+        "PN": 4,
+        "RS": 4
+      },
+      "hardConstraints": [],
+      "specializations": [
+        "Auditoría TI",
+        "Continuidad",
+        "Cumplimiento"
+      ],
+      "dailyTasks": [
+        "Resolver problemas complejos",
+        "Construir soluciones digitales",
+        "Trabajar con equipos multidisciplinarios"
+      ],
+      "environment": []
+    },
+    {
+      "id": "ingenieria-electronica",
+      "name": "Ingeniería electrónica",
+      "family": "Ingeniería",
+      "hollandCode": "RIC",
+      "description": "Diseñar, calcular y mejorar sistemas físicos o productivos.",
+      "interests": {
+        "R": 100,
+        "I": 75,
+        "A": 18,
+        "S": 18,
+        "E": 18,
+        "C": 55
+      },
+      "aptitudes": {
+        "NUM": 85,
+        "LOG": 85,
+        "MAN": 70,
+        "ESP": 75
+      },
+      "values": {
+        "APR": 85,
+        "ING": 75,
+        "VAR": 60
+      },
+      "constraints": {
+        "EL": 3,
+        "MT": 4,
+        "TC": 3,
+        "RS": 3
+      },
+      "hardConstraints": [],
+      "specializations": [
+        "Control",
+        "Sistemas embebidos",
+        "Potencia"
+      ],
+      "dailyTasks": [
+        "Analizar necesidades técnicas",
+        "Diseñar y probar soluciones",
+        "Supervisar seguridad y calidad"
+      ],
+      "environment": []
+    },
+    {
+      "id": "ingenieria-de-telecomunicaciones",
+      "name": "Ingeniería de telecomunicaciones",
+      "family": "Ingeniería",
+      "hollandCode": "RIC",
+      "description": "Diseñar, calcular y mejorar sistemas físicos o productivos.",
+      "interests": {
+        "R": 100,
+        "I": 75,
+        "A": 18,
+        "S": 18,
+        "E": 18,
+        "C": 55
+      },
+      "aptitudes": {
+        "NUM": 80,
+        "LOG": 80,
+        "DIG": 75,
+        "ESP": 70
+      },
+      "values": {
+        "APR": 85,
+        "ING": 75,
+        "VAR": 65
+      },
+      "constraints": {
+        "EL": 3,
+        "MT": 4,
+        "TC": 3
+      },
+      "hardConstraints": [],
+      "specializations": [
+        "Redes",
+        "Radiofrecuencia",
+        "Infraestructura"
+      ],
+      "dailyTasks": [
+        "Analizar necesidades técnicas",
+        "Diseñar y probar soluciones",
+        "Supervisar seguridad y calidad"
+      ],
+      "environment": []
+    },
+    {
+      "id": "ingenieria-mecanica",
+      "name": "Ingeniería mecánica",
+      "family": "Ingeniería",
+      "hollandCode": "RIC",
+      "description": "Diseñar, calcular y mejorar sistemas físicos o productivos.",
+      "interests": {
+        "R": 100,
+        "I": 75,
+        "A": 18,
+        "S": 18,
+        "E": 18,
+        "C": 55
+      },
+      "aptitudes": {
+        "ESP": 85,
+        "NUM": 80,
+        "MAN": 75,
+        "LOG": 80
+      },
+      "values": {
+        "APR": 80,
+        "ING": 75,
+        "VAR": 65
+      },
+      "constraints": {
+        "EL": 3,
+        "MT": 4,
+        "TC": 4,
+        "RS": 3
+      },
+      "hardConstraints": [],
+      "specializations": [
+        "Diseño mecánico",
+        "Manufactura",
+        "Energía"
+      ],
+      "dailyTasks": [
+        "Analizar necesidades técnicas",
+        "Diseñar y probar soluciones",
+        "Supervisar seguridad y calidad"
+      ],
+      "environment": []
+    },
+    {
+      "id": "ingenieria-civil",
+      "name": "Ingeniería civil",
+      "family": "Ingeniería",
+      "hollandCode": "RIC",
+      "description": "Diseñar, calcular y mejorar sistemas físicos o productivos.",
+      "interests": {
+        "R": 100,
+        "I": 75,
+        "A": 18,
+        "S": 18,
+        "E": 18,
+        "C": 55
+      },
+      "aptitudes": {
+        "NUM": 85,
+        "ESP": 85,
+        "ORG": 75,
+        "MAN": 65
+      },
+      "values": {
+        "EST": 75,
+        "ING": 75,
+        "PRE": 65
+      },
+      "constraints": {
+        "EL": 3,
+        "MT": 4,
+        "TC": 4,
+        "RS": 4
+      },
+      "hardConstraints": [],
+      "specializations": [
+        "Estructuras",
+        "Vías",
+        "Construcción"
+      ],
+      "dailyTasks": [
+        "Analizar necesidades técnicas",
+        "Diseñar y probar soluciones",
+        "Supervisar seguridad y calidad"
+      ],
+      "environment": []
+    },
+    {
+      "id": "ingenieria-industrial",
+      "name": "Ingeniería industrial",
+      "family": "Ingeniería",
+      "hollandCode": "ECR",
+      "description": "Diseñar, calcular y mejorar sistemas físicos o productivos.",
+      "interests": {
+        "R": 55,
+        "I": 18,
+        "A": 18,
+        "S": 18,
+        "E": 100,
+        "C": 75
+      },
+      "aptitudes": {
+        "NUM": 75,
+        "LOG": 80,
+        "ORG": 90,
+        "LID": 75
+      },
+      "values": {
+        "ING": 80,
+        "LIDV": 80,
+        "EST": 70
+      },
+      "constraints": {
+        "EL": 3,
+        "MT": 3,
+        "PP": 3,
+        "CF": 3
+      },
+      "hardConstraints": [],
+      "specializations": [
+        "Procesos",
+        "Operaciones",
+        "Calidad"
+      ],
+      "dailyTasks": [
+        "Analizar necesidades técnicas",
+        "Diseñar y probar soluciones",
+        "Supervisar seguridad y calidad"
+      ],
+      "environment": []
+    },
+    {
+      "id": "ingenieria-mecatronica",
+      "name": "Ingeniería mecatrónica",
+      "family": "Ingeniería",
+      "hollandCode": "RIC",
+      "description": "Diseñar, calcular y mejorar sistemas físicos o productivos.",
+      "interests": {
+        "R": 100,
+        "I": 75,
+        "A": 18,
+        "S": 18,
+        "E": 18,
+        "C": 55
+      },
+      "aptitudes": {
+        "LOG": 85,
+        "MAN": 75,
+        "DIG": 80,
+        "ESP": 80
+      },
+      "values": {
+        "APR": 90,
+        "ING": 80,
+        "VAR": 70
+      },
+      "constraints": {
+        "EL": 3,
+        "MT": 4,
+        "TC": 3
+      },
+      "hardConstraints": [],
+      "specializations": [
+        "Robótica",
+        "Automatización",
+        "Sistemas inteligentes"
+      ],
+      "dailyTasks": [
+        "Analizar necesidades técnicas",
+        "Diseñar y probar soluciones",
+        "Supervisar seguridad y calidad"
+      ],
+      "environment": []
+    },
+    {
+      "id": "arquitectura",
+      "name": "Arquitectura",
+      "family": "Creatividad y comunicación",
+      "hollandCode": "ARI",
+      "description": "Transformar ideas en mensajes, experiencias o productos expresivos.",
+      "interests": {
+        "R": 75,
+        "I": 55,
+        "A": 100,
+        "S": 18,
+        "E": 18,
+        "C": 18
+      },
+      "aptitudes": {
+        "ESP": 90,
+        "CREA": 90,
+        "ORG": 70,
+        "MAN": 55
+      },
+      "values": {
+        "CRE": 95,
+        "AUT": 70,
+        "PRE": 70
+      },
+      "constraints": {
+        "EL": 3,
+        "DE": 4,
+        "CF": 3,
+        "PN": 3
+      },
+      "hardConstraints": [],
+      "specializations": [
+        "Diseño arquitectónico",
+        "Urbanismo",
+        "Interiorismo"
+      ],
+      "dailyTasks": [
+        "Crear conceptos",
+        "Producir piezas o experiencias",
+        "Presentar y mejorar propuestas"
+      ],
+      "environment": []
+    },
+    {
+      "id": "diseno-industrial",
+      "name": "Diseño industrial",
+      "family": "Creatividad y comunicación",
+      "hollandCode": "ARI",
+      "description": "Transformar ideas en mensajes, experiencias o productos expresivos.",
+      "interests": {
+        "R": 75,
+        "I": 55,
+        "A": 100,
+        "S": 18,
+        "E": 18,
+        "C": 18
+      },
+      "aptitudes": {
+        "CREA": 90,
+        "ESP": 85,
+        "MAN": 70,
+        "DIG": 60
+      },
+      "values": {
+        "CRE": 95,
+        "AUT": 70,
+        "VAR": 70
+      },
+      "constraints": {
+        "EL": 3,
+        "DE": 3,
+        "PN": 3
+      },
+      "hardConstraints": [],
+      "specializations": [
+        "Productos",
+        "Mobiliario",
+        "Prototipado"
+      ],
+      "dailyTasks": [
+        "Crear conceptos",
+        "Producir piezas o experiencias",
+        "Presentar y mejorar propuestas"
+      ],
+      "environment": []
+    },
+    {
+      "id": "aviacion-y-operaciones-aeronauticas",
+      "name": "Aviación y operaciones aeronáuticas",
+      "family": "Servicios y operaciones",
+      "hollandCode": "RCE",
+      "description": "Coordinar experiencias, procesos y atención con alto componente práctico.",
+      "interests": {
+        "R": 100,
+        "I": 18,
+        "A": 18,
+        "S": 18,
+        "E": 55,
+        "C": 75
+      },
+      "aptitudes": {
+        "ESP": 80,
+        "MAN": 75,
+        "ORG": 90,
+        "LOG": 75
+      },
+      "values": {
+        "PRE": 80,
+        "ING": 80,
+        "VAR": 75
+      },
+      "constraints": {
+        "EL": 3,
+        "HI": 4,
+        "RS": 5,
+        "CF": 4
+      },
+      "hardConstraints": [],
+      "specializations": [
+        "Piloto comercial",
+        "Operaciones aeroportuarias",
+        "Despacho de vuelo"
+      ],
+      "dailyTasks": [
+        "Organizar operaciones",
+        "Atender necesidades",
+        "Resolver imprevistos"
+      ],
+      "environment": []
+    },
+    {
+      "id": "medicina",
+      "name": "Medicina",
+      "family": "Salud",
+      "hollandCode": "ISR",
+      "description": "Prevenir, evaluar o atender necesidades de salud.",
+      "interests": {
+        "R": 55,
+        "I": 100,
+        "A": 18,
+        "S": 75,
+        "E": 18,
+        "C": 18
+      },
+      "aptitudes": {
+        "CIE": 90,
+        "EMP": 85,
+        "LOG": 80,
+        "ORG": 75
+      },
+      "values": {
+        "IMP": 95,
+        "PRE": 85,
+        "APR": 95
+      },
+      "constraints": {
+        "EL": 5,
+        "SC": 5,
+        "HI": 4,
+        "CE": 4,
+        "RS": 5
+      },
+      "hardConstraints": [
+        "SC",
+        "RS"
+      ],
+      "specializations": [
+        "Clínica",
+        "Cirugía",
+        "Salud pública"
+      ],
+      "dailyTasks": [
+        "Evaluar casos",
+        "Aplicar intervenciones basadas en evidencia",
+        "Acompañar a personas y familias"
+      ],
+      "environment": []
+    },
+    {
+      "id": "enfermeria",
+      "name": "Enfermería",
+      "family": "Salud",
+      "hollandCode": "SIR",
+      "description": "Prevenir, evaluar o atender necesidades de salud.",
+      "interests": {
+        "R": 55,
+        "I": 75,
+        "A": 18,
+        "S": 100,
+        "E": 18,
+        "C": 18
+      },
+      "aptitudes": {
+        "EMP": 90,
+        "MAN": 75,
+        "INT": 85,
+        "ORG": 80
+      },
+      "values": {
+        "IMP": 95,
+        "EST": 75,
+        "VAR": 70
+      },
+      "constraints": {
+        "EL": 3,
+        "SC": 5,
+        "HI": 4,
+        "CE": 4,
+        "RS": 4
+      },
+      "hardConstraints": [
+        "SC"
+      ],
+      "specializations": [
+        "Cuidados intensivos",
+        "Comunitaria",
+        "Pediatría"
+      ],
+      "dailyTasks": [
+        "Evaluar casos",
+        "Aplicar intervenciones basadas en evidencia",
+        "Acompañar a personas y familias"
+      ],
+      "environment": []
+    },
+    {
+      "id": "odontologia",
+      "name": "Odontología",
+      "family": "Salud",
+      "hollandCode": "IRS",
+      "description": "Prevenir, evaluar o atender necesidades de salud.",
+      "interests": {
+        "R": 75,
+        "I": 100,
+        "A": 18,
+        "S": 55,
+        "E": 18,
+        "C": 18
+      },
+      "aptitudes": {
+        "MAN": 90,
+        "CIE": 80,
+        "ESP": 80,
+        "INT": 70
+      },
+      "values": {
+        "ING": 80,
+        "AUT": 75,
+        "IMP": 75
+      },
+      "constraints": {
+        "EL": 4,
+        "SC": 4,
+        "DE": 5,
+        "RS": 4
+      },
+      "hardConstraints": [],
+      "specializations": [
+        "Ortodoncia",
+        "Cirugía oral",
+        "Rehabilitación"
+      ],
+      "dailyTasks": [
+        "Evaluar casos",
+        "Aplicar intervenciones basadas en evidencia",
+        "Acompañar a personas y familias"
+      ],
+      "environment": []
+    },
+    {
+      "id": "farmacia",
+      "name": "Farmacia",
+      "family": "Salud",
+      "hollandCode": "ICS",
+      "description": "Prevenir, evaluar o atender necesidades de salud.",
+      "interests": {
+        "R": 18,
+        "I": 100,
+        "A": 18,
+        "S": 55,
+        "E": 18,
+        "C": 75
+      },
+      "aptitudes": {
+        "CIE": 85,
+        "ORG": 90,
+        "NUM": 65
+      },
+      "values": {
+        "EST": 85,
+        "APR": 80,
+        "IMP": 70
+      },
+      "constraints": {
+        "EL": 3,
+        "DE": 5,
+        "RS": 4
+      },
+      "hardConstraints": [],
+      "specializations": [
+        "Farmacia clínica",
+        "Industria",
+        "Regulación"
+      ],
+      "dailyTasks": [
+        "Evaluar casos",
+        "Aplicar intervenciones basadas en evidencia",
+        "Acompañar a personas y familias"
+      ],
+      "environment": []
+    },
+    {
+      "id": "psicologia",
+      "name": "Psicología",
+      "family": "Social y educación",
+      "hollandCode": "SIA",
+      "description": "Comprender, orientar o formar a personas y comunidades.",
+      "interests": {
+        "R": 18,
+        "I": 75,
+        "A": 55,
+        "S": 100,
+        "E": 18,
+        "C": 18
+      },
+      "aptitudes": {
+        "EMP": 90,
+        "VER": 80,
+        "INT": 90,
+        "LOG": 65
+      },
+      "values": {
+        "IMP": 95,
+        "AUT": 70,
+        "APR": 85
+      },
+      "constraints": {
+        "EL": 3,
+        "CE": 4,
+        "PP": 3
+      },
+      "hardConstraints": [
+        "CE"
+      ],
+      "specializations": [
+        "Clínica",
+        "Organizacional",
+        "Educativa"
+      ],
+      "dailyTasks": [
+        "Escuchar y diagnosticar necesidades",
+        "Diseñar intervenciones",
+        "Evaluar cambios humanos o sociales"
+      ],
+      "environment": []
+    },
+    {
+      "id": "fisioterapia",
+      "name": "Fisioterapia",
+      "family": "Salud",
+      "hollandCode": "SRI",
+      "description": "Prevenir, evaluar o atender necesidades de salud.",
+      "interests": {
+        "R": 75,
+        "I": 55,
+        "A": 18,
+        "S": 100,
+        "E": 18,
+        "C": 18
+      },
+      "aptitudes": {
+        "MAN": 85,
+        "EMP": 80,
+        "CIE": 75,
+        "INT": 80
+      },
+      "values": {
+        "IMP": 90,
+        "AUT": 70,
+        "VAR": 75
+      },
+      "constraints": {
+        "EL": 3,
+        "TC": 4,
+        "CE": 3
+      },
+      "hardConstraints": [],
+      "specializations": [
+        "Deportiva",
+        "Neurológica",
+        "Traumatológica"
+      ],
+      "dailyTasks": [
+        "Evaluar casos",
+        "Aplicar intervenciones basadas en evidencia",
+        "Acompañar a personas y familias"
+      ],
+      "environment": []
+    },
+    {
+      "id": "terapia-ocupacional",
+      "name": "Terapia ocupacional",
+      "family": "Salud",
+      "hollandCode": "SRA",
+      "description": "Prevenir, evaluar o atender necesidades de salud.",
+      "interests": {
+        "R": 75,
+        "I": 18,
+        "A": 55,
+        "S": 100,
+        "E": 18,
+        "C": 18
+      },
+      "aptitudes": {
+        "EMP": 85,
+        "CREA": 75,
+        "MAN": 75,
+        "INT": 85
+      },
+      "values": {
+        "IMP": 95,
+        "CRE": 70,
+        "VAR": 75
+      },
+      "constraints": {
+        "EL": 3,
+        "CE": 4,
+        "TC": 3
+      },
+      "hardConstraints": [],
+      "specializations": [
+        "Pediátrica",
+        "Salud mental",
+        "Rehabilitación"
+      ],
+      "dailyTasks": [
+        "Evaluar casos",
+        "Aplicar intervenciones basadas en evidencia",
+        "Acompañar a personas y familias"
+      ],
+      "environment": []
+    },
+    {
+      "id": "nutricion-y-dietetica",
+      "name": "Nutrición y dietética",
+      "family": "Salud",
+      "hollandCode": "SIR",
+      "description": "Prevenir, evaluar o atender necesidades de salud.",
+      "interests": {
+        "R": 55,
+        "I": 75,
+        "A": 18,
+        "S": 100,
+        "E": 18,
+        "C": 18
+      },
+      "aptitudes": {
+        "CIE": 80,
+        "EMP": 75,
+        "VER": 70,
+        "ORG": 75
+      },
+      "values": {
+        "IMP": 85,
+        "AUT": 65,
+        "APR": 80
+      },
+      "constraints": {
+        "EL": 3,
+        "CE": 3,
+        "PP": 3
+      },
+      "hardConstraints": [],
+      "specializations": [
+        "Clínica",
+        "Deportiva",
+        "Alimentos"
+      ],
+      "dailyTasks": [
+        "Evaluar casos",
+        "Aplicar intervenciones basadas en evidencia",
+        "Acompañar a personas y familias"
+      ],
+      "environment": []
+    },
+    {
+      "id": "veterinaria",
+      "name": "Veterinaria",
+      "family": "Salud",
+      "hollandCode": "IRS",
+      "description": "Prevenir, evaluar o atender necesidades de salud.",
+      "interests": {
+        "R": 75,
+        "I": 100,
+        "A": 18,
+        "S": 55,
+        "E": 18,
+        "C": 18
+      },
+      "aptitudes": {
+        "CIE": 90,
+        "MAN": 85,
+        "EMP": 75
+      },
+      "values": {
+        "IMP": 90,
+        "VAR": 75,
+        "AUT": 65
+      },
+      "constraints": {
+        "EL": 4,
+        "SC": 5,
+        "HI": 3,
+        "CE": 4,
+        "AN": 5
+      },
+      "hardConstraints": [
+        "AN",
+        "SC"
+      ],
+      "specializations": [
+        "Pequeños animales",
+        "Producción animal",
+        "Fauna silvestre"
+      ],
+      "dailyTasks": [
+        "Evaluar casos",
+        "Aplicar intervenciones basadas en evidencia",
+        "Acompañar a personas y familias"
+      ],
+      "environment": []
+    },
+    {
+      "id": "biologia",
+      "name": "Biología",
+      "family": "Ciencias",
+      "hollandCode": "IRS",
+      "description": "Investigar fenómenos y producir conocimiento verificable.",
+      "interests": {
+        "R": 75,
+        "I": 100,
+        "A": 18,
+        "S": 55,
+        "E": 18,
+        "C": 18
+      },
+      "aptitudes": {
+        "CIE": 95,
+        "LOG": 75,
+        "MAN": 65
+      },
+      "values": {
+        "APR": 95,
+        "IMP": 80,
+        "VAR": 70
+      },
+      "constraints": {
+        "EL": 3,
+        "TC": 3,
+        "DE": 3
+      },
+      "hardConstraints": [],
+      "specializations": [
+        "Ecología",
+        "Genética",
+        "Microbiología"
+      ],
+      "dailyTasks": [
+        "Formular preguntas",
+        "Recoger y analizar evidencia",
+        "Comunicar resultados"
+      ],
+      "environment": []
+    },
+    {
+      "id": "biotecnologia",
+      "name": "Biotecnología",
+      "family": "Ciencias",
+      "hollandCode": "IIR",
+      "description": "Investigar fenómenos y producir conocimiento verificable.",
+      "interests": {
+        "R": 55,
+        "I": 75,
+        "A": 18,
+        "S": 18,
+        "E": 18,
+        "C": 18
+      },
+      "aptitudes": {
+        "CIE": 95,
+        "LOG": 80,
+        "NUM": 70,
+        "MAN": 70
+      },
+      "values": {
+        "APR": 95,
+        "IMP": 85,
+        "PRE": 65
+      },
+      "constraints": {
+        "EL": 4,
+        "MT": 3,
+        "DE": 4
+      },
+      "hardConstraints": [],
+      "specializations": [
+        "Biomedicina",
+        "Alimentos",
+        "Bioprocesos"
+      ],
+      "dailyTasks": [
+        "Formular preguntas",
+        "Recoger y analizar evidencia",
+        "Comunicar resultados"
+      ],
+      "environment": []
+    },
+    {
+      "id": "bioingenieria",
+      "name": "Bioingeniería",
+      "family": "Ciencias",
+      "hollandCode": "IRI",
+      "description": "Investigar fenómenos y producir conocimiento verificable.",
+      "interests": {
+        "R": 75,
+        "I": 55,
+        "A": 18,
+        "S": 18,
+        "E": 18,
+        "C": 18
+      },
+      "aptitudes": {
+        "CIE": 90,
+        "NUM": 80,
+        "LOG": 85,
+        "MAN": 65
+      },
+      "values": {
+        "APR": 95,
+        "IMP": 85,
+        "ING": 75
+      },
+      "constraints": {
+        "EL": 4,
+        "MT": 4,
+        "RS": 4
+      },
+      "hardConstraints": [],
+      "specializations": [
+        "Dispositivos médicos",
+        "Biomecánica",
+        "Señales biomédicas"
+      ],
+      "dailyTasks": [
+        "Formular preguntas",
+        "Recoger y analizar evidencia",
+        "Comunicar resultados"
+      ],
+      "environment": []
+    },
+    {
+      "id": "quimica",
+      "name": "Química",
+      "family": "Ciencias",
+      "hollandCode": "IRC",
+      "description": "Investigar fenómenos y producir conocimiento verificable.",
+      "interests": {
+        "R": 75,
+        "I": 100,
+        "A": 18,
+        "S": 18,
+        "E": 18,
+        "C": 55
+      },
+      "aptitudes": {
+        "CIE": 95,
+        "NUM": 75,
+        "LOG": 80,
+        "MAN": 70
+      },
+      "values": {
+        "APR": 90,
+        "EST": 70,
+        "IMP": 70
+      },
+      "constraints": {
+        "EL": 3,
+        "MT": 3,
+        "DE": 5,
+        "RS": 4
+      },
+      "hardConstraints": [],
+      "specializations": [
+        "Analítica",
+        "Industrial",
+        "Materiales"
+      ],
+      "dailyTasks": [
+        "Formular preguntas",
+        "Recoger y analizar evidencia",
+        "Comunicar resultados"
+      ],
+      "environment": []
+    },
+    {
+      "id": "fisica",
+      "name": "Física",
+      "family": "Ciencias",
+      "hollandCode": "IRC",
+      "description": "Investigar fenómenos y producir conocimiento verificable.",
+      "interests": {
+        "R": 75,
+        "I": 100,
+        "A": 18,
+        "S": 18,
+        "E": 18,
+        "C": 55
+      },
+      "aptitudes": {
+        "NUM": 95,
+        "LOG": 95,
+        "CIE": 90
+      },
+      "values": {
+        "APR": 100,
+        "PRE": 70,
+        "AUT": 65
+      },
+      "constraints": {
+        "EL": 4,
+        "MT": 5,
+        "PN": 3
+      },
+      "hardConstraints": [
+        "MT"
+      ],
+      "specializations": [
+        "Teórica",
+        "Aplicada",
+        "Astrofísica"
+      ],
+      "dailyTasks": [
+        "Formular preguntas",
+        "Recoger y analizar evidencia",
+        "Comunicar resultados"
+      ],
+      "environment": []
+    },
+    {
+      "id": "matematicas",
+      "name": "Matemáticas",
+      "family": "Ciencias",
+      "hollandCode": "ICR",
+      "description": "Investigar fenómenos y producir conocimiento verificable.",
+      "interests": {
+        "R": 55,
+        "I": 100,
+        "A": 18,
+        "S": 18,
+        "E": 18,
+        "C": 75
+      },
+      "aptitudes": {
+        "NUM": 100,
+        "LOG": 95,
+        "ORG": 75
+      },
+      "values": {
+        "APR": 100,
+        "AUT": 70,
+        "PRE": 65
+      },
+      "constraints": {
+        "EL": 4,
+        "MT": 5,
+        "PN": 3
+      },
+      "hardConstraints": [
+        "MT"
+      ],
+      "specializations": [
+        "Pura",
+        "Aplicada",
+        "Estadística"
+      ],
+      "dailyTasks": [
+        "Formular preguntas",
+        "Recoger y analizar evidencia",
+        "Comunicar resultados"
+      ],
+      "environment": []
+    },
+    {
+      "id": "derecho",
+      "name": "Derecho",
+      "family": "Social y educación",
+      "hollandCode": "ESI",
+      "description": "Comprender, orientar o formar a personas y comunidades.",
+      "interests": {
+        "R": 18,
+        "I": 55,
+        "A": 18,
+        "S": 75,
+        "E": 100,
+        "C": 18
+      },
+      "aptitudes": {
+        "VER": 90,
+        "LOG": 80,
+        "LID": 80,
+        "ORG": 75
+      },
+      "values": {
+        "PRE": 85,
+        "ING": 80,
+        "LIDV": 80
+      },
+      "constraints": {
+        "EL": 3,
+        "PP": 5,
+        "CF": 4,
+        "DE": 4
+      },
+      "hardConstraints": [],
+      "specializations": [
+        "Corporativo",
+        "Penal",
+        "Público"
+      ],
+      "dailyTasks": [
+        "Escuchar y diagnosticar necesidades",
+        "Diseñar intervenciones",
+        "Evaluar cambios humanos o sociales"
+      ],
+      "environment": []
+    },
+    {
+      "id": "ciencias-politicas",
+      "name": "Ciencias políticas",
+      "family": "Social y educación",
+      "hollandCode": "EIS",
+      "description": "Comprender, orientar o formar a personas y comunidades.",
+      "interests": {
+        "R": 18,
+        "I": 75,
+        "A": 18,
+        "S": 55,
+        "E": 100,
+        "C": 18
+      },
+      "aptitudes": {
+        "VER": 90,
+        "LOG": 80,
+        "LID": 80,
+        "INT": 75
+      },
+      "values": {
+        "LIDV": 90,
+        "IMP": 85,
+        "PRE": 70
+      },
+      "constraints": {
+        "EL": 3,
+        "PP": 4,
+        "CF": 4
+      },
+      "hardConstraints": [],
+      "specializations": [
+        "Políticas públicas",
+        "Gobierno",
+        "Análisis político"
+      ],
+      "dailyTasks": [
+        "Escuchar y diagnosticar necesidades",
+        "Diseñar intervenciones",
+        "Evaluar cambios humanos o sociales"
+      ],
+      "environment": []
+    },
+    {
+      "id": "relaciones-internacionales",
+      "name": "Relaciones internacionales",
+      "family": "Social y educación",
+      "hollandCode": "EAS",
+      "description": "Comprender, orientar o formar a personas y comunidades.",
+      "interests": {
+        "R": 18,
+        "I": 18,
+        "A": 75,
+        "S": 55,
+        "E": 100,
+        "C": 18
+      },
+      "aptitudes": {
+        "VER": 90,
+        "INT": 85,
+        "LID": 75,
+        "ORG": 70
+      },
+      "values": {
+        "PRE": 80,
+        "VAR": 85,
+        "IMP": 75
+      },
+      "constraints": {
+        "EL": 3,
+        "PP": 4,
+        "VM": 4
+      },
+      "hardConstraints": [],
+      "specializations": [
+        "Diplomacia",
+        "Cooperación",
+        "Comercio exterior"
+      ],
+      "dailyTasks": [
+        "Escuchar y diagnosticar necesidades",
+        "Diseñar intervenciones",
+        "Evaluar cambios humanos o sociales"
+      ],
+      "environment": []
+    },
+    {
+      "id": "administracion-publica",
+      "name": "Administración pública",
+      "family": "Social y educación",
+      "hollandCode": "ECS",
+      "description": "Comprender, orientar o formar a personas y comunidades.",
+      "interests": {
+        "R": 18,
+        "I": 18,
+        "A": 18,
+        "S": 55,
+        "E": 100,
+        "C": 75
+      },
+      "aptitudes": {
+        "ORG": 90,
+        "VER": 70,
+        "LID": 75
+      },
+      "values": {
+        "EST": 90,
+        "IMP": 85,
+        "LIDV": 70
+      },
+      "constraints": {
+        "EL": 3,
+        "DE": 4,
+        "PP": 3
+      },
+      "hardConstraints": [],
+      "specializations": [
+        "Gestión municipal",
+        "Políticas públicas",
+        "Presupuesto"
+      ],
+      "dailyTasks": [
+        "Escuchar y diagnosticar necesidades",
+        "Diseñar intervenciones",
+        "Evaluar cambios humanos o sociales"
+      ],
+      "environment": []
+    },
+    {
+      "id": "educacion",
+      "name": "Educación",
+      "family": "Social y educación",
+      "hollandCode": "SAE",
+      "description": "Comprender, orientar o formar a personas y comunidades.",
+      "interests": {
+        "R": 18,
+        "I": 18,
+        "A": 75,
+        "S": 100,
+        "E": 55,
+        "C": 18
+      },
+      "aptitudes": {
+        "VER": 85,
+        "EMP": 90,
+        "INT": 90,
+        "CREA": 70
+      },
+      "values": {
+        "IMP": 100,
+        "EST": 75,
+        "CRE": 70
+      },
+      "constraints": {
+        "EL": 3,
+        "NI": 5,
+        "CE": 4,
+        "PP": 4
+      },
+      "hardConstraints": [
+        "NI"
+      ],
+      "specializations": [
+        "Inicial",
+        "Primaria",
+        "Secundaria"
+      ],
+      "dailyTasks": [
+        "Escuchar y diagnosticar necesidades",
+        "Diseñar intervenciones",
+        "Evaluar cambios humanos o sociales"
+      ],
+      "environment": []
+    },
+    {
+      "id": "educacion-especial",
+      "name": "Educación especial",
+      "family": "Social y educación",
+      "hollandCode": "SAI",
+      "description": "Comprender, orientar o formar a personas y comunidades.",
+      "interests": {
+        "R": 18,
+        "I": 55,
+        "A": 75,
+        "S": 100,
+        "E": 18,
+        "C": 18
+      },
+      "aptitudes": {
+        "EMP": 95,
+        "INT": 90,
+        "CREA": 75,
+        "VER": 80
+      },
+      "values": {
+        "IMP": 100,
+        "EST": 75,
+        "CRE": 75
+      },
+      "constraints": {
+        "EL": 3,
+        "NI": 5,
+        "CE": 5
+      },
+      "hardConstraints": [
+        "NI",
+        "CE"
+      ],
+      "specializations": [
+        "Dificultades de aprendizaje",
+        "Inclusión",
+        "Atención temprana"
+      ],
+      "dailyTasks": [
+        "Escuchar y diagnosticar necesidades",
+        "Diseñar intervenciones",
+        "Evaluar cambios humanos o sociales"
+      ],
+      "environment": []
+    },
+    {
+      "id": "orientacion-educativa",
+      "name": "Orientación educativa",
+      "family": "Social y educación",
+      "hollandCode": "SIA",
+      "description": "Comprender, orientar o formar a personas y comunidades.",
+      "interests": {
+        "R": 18,
+        "I": 75,
+        "A": 55,
+        "S": 100,
+        "E": 18,
+        "C": 18
+      },
+      "aptitudes": {
+        "EMP": 90,
+        "VER": 85,
+        "INT": 90,
+        "ORG": 70
+      },
+      "values": {
+        "IMP": 95,
+        "EST": 75,
+        "APR": 80
+      },
+      "constraints": {
+        "EL": 3,
+        "NI": 4,
+        "CE": 4
+      },
+      "hardConstraints": [],
+      "specializations": [
+        "Escolar",
+        "Vocacional",
+        "Familiar"
+      ],
+      "dailyTasks": [
+        "Escuchar y diagnosticar necesidades",
+        "Diseñar intervenciones",
+        "Evaluar cambios humanos o sociales"
+      ],
+      "environment": []
+    },
+    {
+      "id": "trabajo-social",
+      "name": "Trabajo social",
+      "family": "Social y educación",
+      "hollandCode": "SEC",
+      "description": "Comprender, orientar o formar a personas y comunidades.",
+      "interests": {
+        "R": 18,
+        "I": 18,
+        "A": 18,
+        "S": 100,
+        "E": 75,
+        "C": 55
+      },
+      "aptitudes": {
+        "EMP": 95,
+        "INT": 90,
+        "VER": 80,
+        "ORG": 75
+      },
+      "values": {
+        "IMP": 100,
+        "VAR": 75,
+        "EST": 65
+      },
+      "constraints": {
+        "EL": 3,
+        "CE": 5,
+        "CF": 4
+      },
+      "hardConstraints": [
+        "CE"
+      ],
+      "specializations": [
+        "Comunitario",
+        "Protección",
+        "Salud"
+      ],
+      "dailyTasks": [
+        "Escuchar y diagnosticar necesidades",
+        "Diseñar intervenciones",
+        "Evaluar cambios humanos o sociales"
+      ],
+      "environment": []
+    },
+    {
+      "id": "sociologia",
+      "name": "Sociología",
+      "family": "Social y educación",
+      "hollandCode": "SIA",
+      "description": "Comprender, orientar o formar a personas y comunidades.",
+      "interests": {
+        "R": 18,
+        "I": 75,
+        "A": 55,
+        "S": 100,
+        "E": 18,
+        "C": 18
+      },
+      "aptitudes": {
+        "VER": 85,
+        "LOG": 80,
+        "INT": 75,
+        "CIE": 75
+      },
+      "values": {
+        "IMP": 90,
+        "APR": 90,
+        "AUT": 65
+      },
+      "constraints": {
+        "EL": 3,
+        "CE": 3,
+        "PN": 3
+      },
+      "hardConstraints": [],
+      "specializations": [
+        "Investigación social",
+        "Políticas",
+        "Organizaciones"
+      ],
+      "dailyTasks": [
+        "Escuchar y diagnosticar necesidades",
+        "Diseñar intervenciones",
+        "Evaluar cambios humanos o sociales"
+      ],
+      "environment": []
+    },
+    {
+      "id": "antropologia",
+      "name": "Antropología",
+      "family": "Social y educación",
+      "hollandCode": "ISE",
+      "description": "Comprender, orientar o formar a personas y comunidades.",
+      "interests": {
+        "R": 18,
+        "I": 100,
+        "A": 18,
+        "S": 75,
+        "E": 55,
+        "C": 18
+      },
+      "aptitudes": {
+        "CIE": 80,
+        "VER": 85,
+        "INT": 85
+      },
+      "values": {
+        "APR": 95,
+        "IMP": 85,
+        "VAR": 80
+      },
+      "constraints": {
+        "EL": 3,
+        "TC": 3,
+        "VM": 3
+      },
+      "hardConstraints": [],
+      "specializations": [
+        "Social",
+        "Arqueología",
+        "Cultura"
+      ],
+      "dailyTasks": [
+        "Escuchar y diagnosticar necesidades",
+        "Diseñar intervenciones",
+        "Evaluar cambios humanos o sociales"
+      ],
+      "environment": []
+    },
+    {
+      "id": "criminalistica",
+      "name": "Criminalística",
+      "family": "Ciencias",
+      "hollandCode": "IRC",
+      "description": "Investigar fenómenos y producir conocimiento verificable.",
+      "interests": {
+        "R": 75,
+        "I": 100,
+        "A": 18,
+        "S": 18,
+        "E": 18,
+        "C": 55
+      },
+      "aptitudes": {
+        "CIE": 90,
+        "LOG": 85,
+        "ORG": 90,
+        "MAN": 75
+      },
+      "values": {
+        "EST": 80,
+        "APR": 85,
+        "IMP": 75
+      },
+      "constraints": {
+        "EL": 3,
+        "SC": 4,
+        "DE": 5,
+        "RS": 4
+      },
+      "hardConstraints": [],
+      "specializations": [
+        "Laboratorio",
+        "Escena",
+        "Documentología"
+      ],
+      "dailyTasks": [
+        "Formular preguntas",
+        "Recoger y analizar evidencia",
+        "Comunicar resultados"
+      ],
+      "environment": []
+    },
+    {
+      "id": "criminologia",
+      "name": "Criminología",
+      "family": "Social y educación",
+      "hollandCode": "ISE",
+      "description": "Comprender, orientar o formar a personas y comunidades.",
+      "interests": {
+        "R": 18,
+        "I": 100,
+        "A": 18,
+        "S": 75,
+        "E": 55,
+        "C": 18
+      },
+      "aptitudes": {
+        "LOG": 80,
+        "VER": 80,
+        "EMP": 70,
+        "CIE": 75
+      },
+      "values": {
+        "IMP": 85,
+        "APR": 85,
+        "EST": 70
+      },
+      "constraints": {
+        "EL": 3,
+        "CE": 4,
+        "CF": 4
+      },
+      "hardConstraints": [],
+      "specializations": [
+        "Prevención",
+        "Victimología",
+        "Análisis criminal"
+      ],
+      "dailyTasks": [
+        "Escuchar y diagnosticar necesidades",
+        "Diseñar intervenciones",
+        "Evaluar cambios humanos o sociales"
+      ],
+      "environment": []
+    },
+    {
+      "id": "traduccion-e-interpretacion",
+      "name": "Traducción e interpretación",
+      "family": "Creatividad y comunicación",
+      "hollandCode": "AIS",
+      "description": "Transformar ideas en mensajes, experiencias o productos expresivos.",
+      "interests": {
+        "R": 18,
+        "I": 75,
+        "A": 100,
+        "S": 55,
+        "E": 18,
+        "C": 18
+      },
+      "aptitudes": {
+        "VER": 95,
+        "INT": 75,
+        "ORG": 80
+      },
+      "values": {
+        "AUT": 80,
+        "VAR": 75,
+        "APR": 90
+      },
+      "constraints": {
+        "EL": 3,
+        "DE": 4,
+        "PP": 3
+      },
+      "hardConstraints": [],
+      "specializations": [
+        "Audiovisual",
+        "Jurídica",
+        "Conferencia"
+      ],
+      "dailyTasks": [
+        "Crear conceptos",
+        "Producir piezas o experiencias",
+        "Presentar y mejorar propuestas"
+      ],
+      "environment": []
+    },
+    {
+      "id": "linguistica",
+      "name": "Lingüística",
+      "family": "Ciencias",
+      "hollandCode": "AIS",
+      "description": "Investigar fenómenos y producir conocimiento verificable.",
+      "interests": {
+        "R": 18,
+        "I": 75,
+        "A": 100,
+        "S": 55,
+        "E": 18,
+        "C": 18
+      },
+      "aptitudes": {
+        "VER": 95,
+        "LOG": 80,
+        "CIE": 70
+      },
+      "values": {
+        "APR": 95,
+        "AUT": 70,
+        "CRE": 65
+      },
+      "constraints": {
+        "EL": 4,
+        "PN": 3
+      },
+      "hardConstraints": [],
+      "specializations": [
+        "Computacional",
+        "Aplicada",
+        "Investigación"
+      ],
+      "dailyTasks": [
+        "Formular preguntas",
+        "Recoger y analizar evidencia",
+        "Comunicar resultados"
+      ],
+      "environment": []
+    },
+    {
+      "id": "administracion-de-empresas",
+      "name": "Administración de empresas",
+      "family": "Negocios",
+      "hollandCode": "ECS",
+      "description": "Tomar decisiones, organizar recursos y generar crecimiento.",
+      "interests": {
+        "R": 18,
+        "I": 18,
+        "A": 18,
+        "S": 55,
+        "E": 100,
+        "C": 75
+      },
+      "aptitudes": {
+        "ORG": 85,
+        "LID": 85,
+        "INT": 80,
+        "NUM": 65
+      },
+      "values": {
+        "LIDV": 90,
+        "ING": 80,
+        "EST": 65
+      },
+      "constraints": {
+        "EL": 3,
+        "PP": 4,
+        "CF": 4
+      },
+      "hardConstraints": [],
+      "specializations": [
+        "Estrategia",
+        "Operaciones",
+        "Emprendimiento"
+      ],
+      "dailyTasks": [
+        "Analizar oportunidades",
+        "Coordinar recursos y personas",
+        "Medir resultados"
+      ],
+      "environment": []
+    },
+    {
+      "id": "finanzas",
+      "name": "Finanzas",
+      "family": "Negocios",
+      "hollandCode": "ECI",
+      "description": "Tomar decisiones, organizar recursos y generar crecimiento.",
+      "interests": {
+        "R": 18,
+        "I": 55,
+        "A": 18,
+        "S": 18,
+        "E": 100,
+        "C": 75
+      },
+      "aptitudes": {
+        "NUM": 90,
+        "LOG": 85,
+        "ORG": 85
+      },
+      "values": {
+        "ING": 95,
+        "PRE": 80,
+        "EST": 75
+      },
+      "constraints": {
+        "EL": 3,
+        "MT": 4,
+        "CF": 4,
+        "DE": 4
+      },
+      "hardConstraints": [],
+      "specializations": [
+        "Inversiones",
+        "Banca",
+        "Finanzas corporativas"
+      ],
+      "dailyTasks": [
+        "Analizar oportunidades",
+        "Coordinar recursos y personas",
+        "Medir resultados"
+      ],
+      "environment": []
+    },
+    {
+      "id": "economia",
+      "name": "Economía",
+      "family": "Negocios",
+      "hollandCode": "IEC",
+      "description": "Tomar decisiones, organizar recursos y generar crecimiento.",
+      "interests": {
+        "R": 18,
+        "I": 100,
+        "A": 18,
+        "S": 18,
+        "E": 75,
+        "C": 55
+      },
+      "aptitudes": {
+        "NUM": 90,
+        "LOG": 90,
+        "VER": 75,
+        "CIE": 75
+      },
+      "values": {
+        "APR": 95,
+        "PRE": 75,
+        "IMP": 75
+      },
+      "constraints": {
+        "EL": 4,
+        "MT": 5,
+        "PN": 3
+      },
+      "hardConstraints": [],
+      "specializations": [
+        "Política económica",
+        "Desarrollo",
+        "Econometría"
+      ],
+      "dailyTasks": [
+        "Analizar oportunidades",
+        "Coordinar recursos y personas",
+        "Medir resultados"
+      ],
+      "environment": []
+    },
+    {
+      "id": "contabilidad",
+      "name": "Contabilidad",
+      "family": "Negocios",
+      "hollandCode": "CIE",
+      "description": "Tomar decisiones, organizar recursos y generar crecimiento.",
+      "interests": {
+        "R": 18,
+        "I": 75,
+        "A": 18,
+        "S": 18,
+        "E": 55,
+        "C": 100
+      },
+      "aptitudes": {
+        "NUM": 85,
+        "ORG": 95,
+        "LOG": 75
+      },
+      "values": {
+        "EST": 95,
+        "ING": 75,
+        "BAL": 70
+      },
+      "constraints": {
+        "EL": 3,
+        "DE": 5,
+        "PN": 4
+      },
+      "hardConstraints": [],
+      "specializations": [
+        "Auditoría",
+        "Tributación",
+        "Costes"
+      ],
+      "dailyTasks": [
+        "Analizar oportunidades",
+        "Coordinar recursos y personas",
+        "Medir resultados"
+      ],
+      "environment": []
+    },
+    {
+      "id": "ciencias-actuariales",
+      "name": "Ciencias actuariales",
+      "family": "Negocios",
+      "hollandCode": "ICR",
+      "description": "Tomar decisiones, organizar recursos y generar crecimiento.",
+      "interests": {
+        "R": 55,
+        "I": 100,
+        "A": 18,
+        "S": 18,
+        "E": 18,
+        "C": 75
+      },
+      "aptitudes": {
+        "NUM": 100,
+        "LOG": 95,
+        "ORG": 85
+      },
+      "values": {
+        "ING": 95,
+        "EST": 90,
+        "PRE": 75
+      },
+      "constraints": {
+        "EL": 4,
+        "MT": 5,
+        "DE": 5
+      },
+      "hardConstraints": [
+        "MT"
+      ],
+      "specializations": [
+        "Seguros",
+        "Riesgo",
+        "Pensiones"
+      ],
+      "dailyTasks": [
+        "Analizar oportunidades",
+        "Coordinar recursos y personas",
+        "Medir resultados"
+      ],
+      "environment": []
+    },
+    {
+      "id": "marketing",
+      "name": "Marketing",
+      "family": "Negocios",
+      "hollandCode": "EAC",
+      "description": "Tomar decisiones, organizar recursos y generar crecimiento.",
+      "interests": {
+        "R": 18,
+        "I": 18,
+        "A": 75,
+        "S": 18,
+        "E": 100,
+        "C": 55
+      },
+      "aptitudes": {
+        "CREA": 85,
+        "INT": 85,
+        "LID": 75,
+        "DIG": 70
+      },
+      "values": {
+        "CRE": 90,
+        "ING": 80,
+        "VAR": 85
+      },
+      "constraints": {
+        "EL": 3,
+        "PP": 4,
+        "CF": 3,
+        "PN": 3
+      },
+      "hardConstraints": [],
+      "specializations": [
+        "Digital",
+        "Marca",
+        "Producto"
+      ],
+      "dailyTasks": [
+        "Analizar oportunidades",
+        "Coordinar recursos y personas",
+        "Medir resultados"
+      ],
+      "environment": []
+    },
+    {
+      "id": "investigacion-de-mercados",
+      "name": "Investigación de mercados",
+      "family": "Negocios",
+      "hollandCode": "IEC",
+      "description": "Tomar decisiones, organizar recursos y generar crecimiento.",
+      "interests": {
+        "R": 18,
+        "I": 100,
+        "A": 18,
+        "S": 18,
+        "E": 75,
+        "C": 55
+      },
+      "aptitudes": {
+        "NUM": 75,
+        "LOG": 80,
+        "INT": 80,
+        "DIG": 70
+      },
+      "values": {
+        "APR": 85,
+        "ING": 75,
+        "VAR": 75
+      },
+      "constraints": {
+        "EL": 3,
+        "MT": 3,
+        "PN": 3
+      },
+      "hardConstraints": [],
+      "specializations": [
+        "Consumidor",
+        "Analítica",
+        "Producto"
+      ],
+      "dailyTasks": [
+        "Analizar oportunidades",
+        "Coordinar recursos y personas",
+        "Medir resultados"
+      ],
+      "environment": []
+    },
+    {
+      "id": "ventas-y-gestion-comercial",
+      "name": "Ventas y gestión comercial",
+      "family": "Negocios",
+      "hollandCode": "ESC",
+      "description": "Tomar decisiones, organizar recursos y generar crecimiento.",
+      "interests": {
+        "R": 18,
+        "I": 18,
+        "A": 18,
+        "S": 75,
+        "E": 100,
+        "C": 55
+      },
+      "aptitudes": {
+        "LID": 90,
+        "INT": 90,
+        "VER": 85,
+        "ORG": 70
+      },
+      "values": {
+        "ING": 95,
+        "LIDV": 85,
+        "VAR": 85
+      },
+      "constraints": {
+        "EL": 2,
+        "PP": 5,
+        "CF": 4,
+        "RI": 4
+      },
+      "hardConstraints": [],
+      "specializations": [
+        "B2B",
+        "Retail",
+        "Desarrollo de negocios"
+      ],
+      "dailyTasks": [
+        "Analizar oportunidades",
+        "Coordinar recursos y personas",
+        "Medir resultados"
+      ],
+      "environment": []
+    },
+    {
+      "id": "emprendimiento",
+      "name": "Emprendimiento",
+      "family": "Negocios",
+      "hollandCode": "EAC",
+      "description": "Tomar decisiones, organizar recursos y generar crecimiento.",
+      "interests": {
+        "R": 18,
+        "I": 18,
+        "A": 75,
+        "S": 18,
+        "E": 100,
+        "C": 55
+      },
+      "aptitudes": {
+        "LID": 90,
+        "CREA": 85,
+        "INT": 80,
+        "ORG": 70
+      },
+      "values": {
+        "AUT": 100,
+        "ING": 90,
+        "LIDV": 90
+      },
+      "constraints": {
+        "EL": 1,
+        "RI": 5,
+        "CF": 5,
+        "HI": 4
+      },
+      "hardConstraints": [
+        "RI"
+      ],
+      "specializations": [
+        "Startups",
+        "Negocios digitales",
+        "Comercio"
+      ],
+      "dailyTasks": [
+        "Analizar oportunidades",
+        "Coordinar recursos y personas",
+        "Medir resultados"
+      ],
+      "environment": []
+    },
+    {
+      "id": "recursos-humanos",
+      "name": "Recursos humanos",
+      "family": "Negocios",
+      "hollandCode": "SEC",
+      "description": "Tomar decisiones, organizar recursos y generar crecimiento.",
+      "interests": {
+        "R": 18,
+        "I": 18,
+        "A": 18,
+        "S": 100,
+        "E": 75,
+        "C": 55
+      },
+      "aptitudes": {
+        "INT": 90,
+        "EMP": 85,
+        "VER": 80,
+        "ORG": 85
+      },
+      "values": {
+        "IMP": 80,
+        "EST": 80,
+        "LIDV": 75
+      },
+      "constraints": {
+        "EL": 3,
+        "CF": 4,
+        "CE": 4,
+        "PP": 3
+      },
+      "hardConstraints": [],
+      "specializations": [
+        "Selección",
+        "Desarrollo",
+        "Compensación"
+      ],
+      "dailyTasks": [
+        "Analizar oportunidades",
+        "Coordinar recursos y personas",
+        "Medir resultados"
+      ],
+      "environment": []
+    },
+    {
+      "id": "logistica-y-cadena-de-suministro",
+      "name": "Logística y cadena de suministro",
+      "family": "Servicios y operaciones",
+      "hollandCode": "CER",
+      "description": "Coordinar experiencias, procesos y atención con alto componente práctico.",
+      "interests": {
+        "R": 55,
+        "I": 18,
+        "A": 18,
+        "S": 18,
+        "E": 75,
+        "C": 100
+      },
+      "aptitudes": {
+        "ORG": 95,
+        "NUM": 75,
+        "LOG": 85,
+        "LID": 70
+      },
+      "values": {
+        "EST": 85,
+        "ING": 75,
+        "VAR": 75
+      },
+      "constraints": {
+        "EL": 3,
+        "HI": 3,
+        "DE": 4,
+        "CF": 4
+      },
+      "hardConstraints": [],
+      "specializations": [
+        "Compras",
+        "Distribución",
+        "Planificación"
+      ],
+      "dailyTasks": [
+        "Organizar operaciones",
+        "Atender necesidades",
+        "Resolver imprevistos"
+      ],
+      "environment": []
+    },
+    {
+      "id": "gestion-de-proyectos",
+      "name": "Gestión de proyectos",
+      "family": "Negocios",
+      "hollandCode": "ECR",
+      "description": "Tomar decisiones, organizar recursos y generar crecimiento.",
+      "interests": {
+        "R": 55,
+        "I": 18,
+        "A": 18,
+        "S": 18,
+        "E": 100,
+        "C": 75
+      },
+      "aptitudes": {
+        "ORG": 95,
+        "LID": 85,
+        "LOG": 80,
+        "VER": 75
+      },
+      "values": {
+        "LIDV": 90,
+        "ING": 80,
+        "VAR": 80
+      },
+      "constraints": {
+        "EL": 3,
+        "PP": 4,
+        "CF": 4,
+        "RS": 4
+      },
+      "hardConstraints": [],
+      "specializations": [
+        "Tecnología",
+        "Construcción",
+        "Transformación"
+      ],
+      "dailyTasks": [
+        "Analizar oportunidades",
+        "Coordinar recursos y personas",
+        "Medir resultados"
+      ],
+      "environment": []
+    },
+    {
+      "id": "comercio-internacional",
+      "name": "Comercio internacional",
+      "family": "Negocios",
+      "hollandCode": "ECI",
+      "description": "Tomar decisiones, organizar recursos y generar crecimiento.",
+      "interests": {
+        "R": 18,
+        "I": 55,
+        "A": 18,
+        "S": 18,
+        "E": 100,
+        "C": 75
+      },
+      "aptitudes": {
+        "VER": 80,
+        "NUM": 70,
+        "LID": 80,
+        "ORG": 85
+      },
+      "values": {
+        "VAR": 90,
+        "ING": 80,
+        "PRE": 70
+      },
+      "constraints": {
+        "EL": 3,
+        "VM": 4,
+        "PP": 4,
+        "CF": 3
+      },
+      "hardConstraints": [],
+      "specializations": [
+        "Importación",
+        "Exportación",
+        "Aduanas"
+      ],
+      "dailyTasks": [
+        "Analizar oportunidades",
+        "Coordinar recursos y personas",
+        "Medir resultados"
+      ],
+      "environment": []
+    },
+    {
+      "id": "diseno-grafico-y-comunicacion-visual",
+      "name": "Diseño gráfico y comunicación visual",
+      "family": "Creatividad y comunicación",
+      "hollandCode": "AEC",
+      "description": "Transformar ideas en mensajes, experiencias o productos expresivos.",
+      "interests": {
+        "R": 18,
+        "I": 18,
+        "A": 100,
+        "S": 18,
+        "E": 75,
+        "C": 55
+      },
+      "aptitudes": {
+        "CREA": 95,
+        "DIG": 80,
+        "ESP": 80,
+        "ORG": 60
+      },
+      "values": {
+        "CRE": 100,
+        "AUT": 80,
+        "VAR": 75
+      },
+      "constraints": {
+        "EL": 2,
+        "PN": 4,
+        "RI": 3,
+        "DE": 3
+      },
+      "hardConstraints": [],
+      "specializations": [
+        "Branding",
+        "Editorial",
+        "Ilustración"
+      ],
+      "dailyTasks": [
+        "Crear conceptos",
+        "Producir piezas o experiencias",
+        "Presentar y mejorar propuestas"
+      ],
+      "environment": [
+        "creativo",
+        "digital",
+        "proyectos"
+      ]
+    },
+    {
+      "id": "comunicacion-social-audiovisual",
+      "name": "Comunicación social audiovisual",
+      "family": "Creatividad y comunicación",
+      "hollandCode": "AES",
+      "description": "Transformar ideas en mensajes, experiencias o productos expresivos.",
+      "interests": {
+        "R": 18,
+        "I": 18,
+        "A": 100,
+        "S": 55,
+        "E": 75,
+        "C": 18
+      },
+      "aptitudes": {
+        "VER": 90,
+        "CREA": 90,
+        "INT": 80,
+        "ORG": 65
+      },
+      "values": {
+        "CRE": 90,
+        "VAR": 90,
+        "IMP": 75
+      },
+      "constraints": {
+        "EL": 3,
+        "PP": 4,
+        "CF": 3,
+        "HI": 3
+      },
+      "hardConstraints": [],
+      "specializations": [
+        "Audiovisual",
+        "Comunicación digital",
+        "Producción de contenidos"
+      ],
+      "dailyTasks": [
+        "Crear conceptos",
+        "Producir piezas o experiencias",
+        "Presentar y mejorar propuestas"
+      ],
+      "environment": []
+    },
+    {
+      "id": "periodismo",
+      "name": "Periodismo",
+      "family": "Creatividad y comunicación",
+      "hollandCode": "ASE",
+      "description": "Transformar ideas en mensajes, experiencias o productos expresivos.",
+      "interests": {
+        "R": 18,
+        "I": 18,
+        "A": 100,
+        "S": 75,
+        "E": 55,
+        "C": 18
+      },
+      "aptitudes": {
+        "VER": 95,
+        "INT": 85,
+        "CREA": 70,
+        "ORG": 80
+      },
+      "values": {
+        "IMP": 95,
+        "VAR": 90,
+        "PRE": 70
+      },
+      "constraints": {
+        "EL": 3,
+        "HI": 4,
+        "CF": 4,
+        "CE": 3
+      },
+      "hardConstraints": [],
+      "specializations": [
+        "Investigación",
+        "Datos",
+        "Multimedia"
+      ],
+      "dailyTasks": [
+        "Crear conceptos",
+        "Producir piezas o experiencias",
+        "Presentar y mejorar propuestas"
+      ],
+      "environment": []
+    },
+    {
+      "id": "publicidad-y-direccion-creativa",
+      "name": "Publicidad y dirección creativa",
+      "family": "Creatividad y comunicación",
+      "hollandCode": "AEC",
+      "description": "Transformar ideas en mensajes, experiencias o productos expresivos.",
+      "interests": {
+        "R": 18,
+        "I": 18,
+        "A": 100,
+        "S": 18,
+        "E": 75,
+        "C": 55
+      },
+      "aptitudes": {
+        "CREA": 100,
+        "LID": 75,
+        "VER": 85,
+        "DIG": 75
+      },
+      "values": {
+        "CRE": 100,
+        "ING": 75,
+        "VAR": 90
+      },
+      "constraints": {
+        "EL": 2,
+        "PP": 4,
+        "CF": 4,
+        "PN": 3
+      },
+      "hardConstraints": [],
+      "specializations": [
+        "Dirección creativa",
+        "Copywriting",
+        "Estrategia de marca"
+      ],
+      "dailyTasks": [
+        "Crear conceptos",
+        "Producir piezas o experiencias",
+        "Presentar y mejorar propuestas"
+      ],
+      "environment": []
+    },
+    {
+      "id": "produccion-y-direccion-audiovisual",
+      "name": "Producción y dirección audiovisual",
+      "family": "Creatividad y comunicación",
+      "hollandCode": "ARE",
+      "description": "Transformar ideas en mensajes, experiencias o productos expresivos.",
+      "interests": {
+        "R": 75,
+        "I": 18,
+        "A": 100,
+        "S": 18,
+        "E": 55,
+        "C": 18
+      },
+      "aptitudes": {
+        "CREA": 95,
+        "DIG": 75,
+        "MAN": 65,
+        "ORG": 80,
+        "LID": 65
+      },
+      "values": {
+        "CRE": 100,
+        "VAR": 95,
+        "AUT": 70
+      },
+      "constraints": {
+        "EL": 2,
+        "HI": 4,
+        "RI": 3,
+        "TC": 3
+      },
+      "hardConstraints": [],
+      "specializations": [
+        "Dirección",
+        "Edición",
+        "Producción"
+      ],
+      "dailyTasks": [
+        "Crear conceptos",
+        "Producir piezas o experiencias",
+        "Presentar y mejorar propuestas"
+      ],
+      "environment": []
+    },
+    {
+      "id": "animacion-digital",
+      "name": "Animación digital",
+      "family": "Creatividad y comunicación",
+      "hollandCode": "AIC",
+      "description": "Transformar ideas en mensajes, experiencias o productos expresivos.",
+      "interests": {
+        "R": 18,
+        "I": 75,
+        "A": 100,
+        "S": 18,
+        "E": 18,
+        "C": 55
+      },
+      "aptitudes": {
+        "CREA": 95,
+        "DIG": 90,
+        "ESP": 85,
+        "ORG": 60
+      },
+      "values": {
+        "CRE": 100,
+        "AUT": 80,
+        "APR": 85
+      },
+      "constraints": {
+        "EL": 2,
+        "PN": 5,
+        "DE": 5
+      },
+      "hardConstraints": [],
+      "specializations": [
+        "2D",
+        "3D",
+        "Motion graphics"
+      ],
+      "dailyTasks": [
+        "Crear conceptos",
+        "Producir piezas o experiencias",
+        "Presentar y mejorar propuestas"
+      ],
+      "environment": []
+    },
+    {
+      "id": "fotografia",
+      "name": "Fotografía",
+      "family": "Creatividad y comunicación",
+      "hollandCode": "ARS",
+      "description": "Transformar ideas en mensajes, experiencias o productos expresivos.",
+      "interests": {
+        "R": 75,
+        "I": 18,
+        "A": 100,
+        "S": 55,
+        "E": 18,
+        "C": 18
+      },
+      "aptitudes": {
+        "CREA": 90,
+        "ESP": 85,
+        "MAN": 75,
+        "INT": 65
+      },
+      "values": {
+        "CRE": 100,
+        "AUT": 85,
+        "VAR": 85
+      },
+      "constraints": {
+        "EL": 1,
+        "RI": 4,
+        "TC": 3,
+        "PP": 2
+      },
+      "hardConstraints": [],
+      "specializations": [
+        "Comercial",
+        "Documental",
+        "Editorial"
+      ],
+      "dailyTasks": [
+        "Crear conceptos",
+        "Producir piezas o experiencias",
+        "Presentar y mejorar propuestas"
+      ],
+      "environment": []
+    },
+    {
+      "id": "escritura-y-edicion",
+      "name": "Escritura y edición",
+      "family": "Creatividad y comunicación",
+      "hollandCode": "AIS",
+      "description": "Transformar ideas en mensajes, experiencias o productos expresivos.",
+      "interests": {
+        "R": 18,
+        "I": 75,
+        "A": 100,
+        "S": 55,
+        "E": 18,
+        "C": 18
+      },
+      "aptitudes": {
+        "VER": 100,
+        "CREA": 90,
+        "ORG": 80
+      },
+      "values": {
+        "CRE": 100,
+        "AUT": 90,
+        "APR": 85
+      },
+      "constraints": {
+        "EL": 2,
+        "RI": 3,
+        "DE": 5,
+        "PN": 4
+      },
+      "hardConstraints": [],
+      "specializations": [
+        "Narrativa",
+        "Edición",
+        "Guion"
+      ],
+      "dailyTasks": [
+        "Crear conceptos",
+        "Producir piezas o experiencias",
+        "Presentar y mejorar propuestas"
+      ],
+      "environment": []
+    },
+    {
+      "id": "musica",
+      "name": "Música",
+      "family": "Creatividad y comunicación",
+      "hollandCode": "AES",
+      "description": "Transformar ideas en mensajes, experiencias o productos expresivos.",
+      "interests": {
+        "R": 18,
+        "I": 18,
+        "A": 100,
+        "S": 55,
+        "E": 75,
+        "C": 18
+      },
+      "aptitudes": {
+        "CREA": 100,
+        "MAN": 80,
+        "INT": 65
+      },
+      "values": {
+        "CRE": 100,
+        "AUT": 85,
+        "PRE": 75
+      },
+      "constraints": {
+        "EL": 2,
+        "RI": 5,
+        "PP": 4,
+        "HI": 4
+      },
+      "hardConstraints": [],
+      "specializations": [
+        "Interpretación",
+        "Composición",
+        "Producción"
+      ],
+      "dailyTasks": [
+        "Crear conceptos",
+        "Producir piezas o experiencias",
+        "Presentar y mejorar propuestas"
+      ],
+      "environment": []
+    },
+    {
+      "id": "artes-escenicas",
+      "name": "Artes escénicas",
+      "family": "Creatividad y comunicación",
+      "hollandCode": "AES",
+      "description": "Transformar ideas en mensajes, experiencias o productos expresivos.",
+      "interests": {
+        "R": 18,
+        "I": 18,
+        "A": 100,
+        "S": 55,
+        "E": 75,
+        "C": 18
+      },
+      "aptitudes": {
+        "CREA": 100,
+        "INT": 85,
+        "VER": 80,
+        "MAN": 75
+      },
+      "values": {
+        "CRE": 100,
+        "PRE": 85,
+        "VAR": 95
+      },
+      "constraints": {
+        "EL": 2,
+        "PP": 5,
+        "RI": 5,
+        "HI": 4
+      },
+      "hardConstraints": [],
+      "specializations": [
+        "Actuación",
+        "Danza",
+        "Dirección escénica"
+      ],
+      "dailyTasks": [
+        "Crear conceptos",
+        "Producir piezas o experiencias",
+        "Presentar y mejorar propuestas"
+      ],
+      "environment": []
+    },
+    {
+      "id": "diseno-de-moda",
+      "name": "Diseño de moda",
+      "family": "Creatividad y comunicación",
+      "hollandCode": "AER",
+      "description": "Transformar ideas en mensajes, experiencias o productos expresivos.",
+      "interests": {
+        "R": 55,
+        "I": 18,
+        "A": 100,
+        "S": 18,
+        "E": 75,
+        "C": 18
+      },
+      "aptitudes": {
+        "CREA": 100,
+        "ESP": 85,
+        "MAN": 80,
+        "LID": 65
+      },
+      "values": {
+        "CRE": 100,
+        "AUT": 85,
+        "PRE": 80
+      },
+      "constraints": {
+        "EL": 2,
+        "RI": 4,
+        "CF": 3,
+        "DE": 4
+      },
+      "hardConstraints": [],
+      "specializations": [
+        "Indumentaria",
+        "Textil",
+        "Dirección de marca"
+      ],
+      "dailyTasks": [
+        "Crear conceptos",
+        "Producir piezas o experiencias",
+        "Presentar y mejorar propuestas"
+      ],
+      "environment": []
+    },
+    {
+      "id": "gastronomia",
+      "name": "Gastronomía",
+      "family": "Servicios y operaciones",
+      "hollandCode": "RAE",
+      "description": "Coordinar experiencias, procesos y atención con alto componente práctico.",
+      "interests": {
+        "R": 100,
+        "I": 18,
+        "A": 75,
+        "S": 18,
+        "E": 55,
+        "C": 18
+      },
+      "aptitudes": {
+        "MAN": 90,
+        "CREA": 85,
+        "ORG": 85
+      },
+      "values": {
+        "CRE": 90,
+        "AUT": 75,
+        "VAR": 90
+      },
+      "constraints": {
+        "EL": 2,
+        "HI": 5,
+        "TC": 5,
+        "CF": 4
+      },
+      "hardConstraints": [],
+      "specializations": [
+        "Cocina",
+        "Pastelería",
+        "Gestión gastronómica"
+      ],
+      "dailyTasks": [
+        "Organizar operaciones",
+        "Atender necesidades",
+        "Resolver imprevistos"
+      ],
+      "environment": []
+    },
+    {
+      "id": "turismo",
+      "name": "Turismo",
+      "family": "Servicios y operaciones",
+      "hollandCode": "SEA",
+      "description": "Coordinar experiencias, procesos y atención con alto componente práctico.",
+      "interests": {
+        "R": 18,
+        "I": 18,
+        "A": 55,
+        "S": 100,
+        "E": 75,
+        "C": 18
+      },
+      "aptitudes": {
+        "INT": 90,
+        "VER": 80,
+        "ORG": 80,
+        "LID": 70
+      },
+      "values": {
+        "VAR": 100,
+        "IMP": 70,
+        "PRE": 65
+      },
+      "constraints": {
+        "EL": 2,
+        "HI": 4,
+        "VM": 5,
+        "PP": 4
+      },
+      "hardConstraints": [],
+      "specializations": [
+        "Operación turística",
+        "Guianza",
+        "Gestión de destinos"
+      ],
+      "dailyTasks": [
+        "Organizar operaciones",
+        "Atender necesidades",
+        "Resolver imprevistos"
+      ],
+      "environment": []
+    },
+    {
+      "id": "hoteleria",
+      "name": "Hotelería",
+      "family": "Servicios y operaciones",
+      "hollandCode": "ESC",
+      "description": "Coordinar experiencias, procesos y atención con alto componente práctico.",
+      "interests": {
+        "R": 18,
+        "I": 18,
+        "A": 18,
+        "S": 75,
+        "E": 100,
+        "C": 55
+      },
+      "aptitudes": {
+        "INT": 90,
+        "ORG": 90,
+        "LID": 80,
+        "EMP": 75
+      },
+      "values": {
+        "VAR": 90,
+        "EST": 70,
+        "LIDV": 75
+      },
+      "constraints": {
+        "EL": 2,
+        "HI": 5,
+        "CF": 4,
+        "PP": 4
+      },
+      "hardConstraints": [],
+      "specializations": [
+        "Alojamiento",
+        "Eventos",
+        "Alimentos y bebidas"
+      ],
+      "dailyTasks": [
+        "Organizar operaciones",
+        "Atender necesidades",
+        "Resolver imprevistos"
+      ],
+      "environment": []
+    },
+    {
+      "id": "organizacion-de-eventos",
+      "name": "Organización de eventos",
+      "family": "Servicios y operaciones",
+      "hollandCode": "EAS",
+      "description": "Coordinar experiencias, procesos y atención con alto componente práctico.",
+      "interests": {
+        "R": 18,
+        "I": 18,
+        "A": 75,
+        "S": 55,
+        "E": 100,
+        "C": 18
+      },
+      "aptitudes": {
+        "ORG": 95,
+        "LID": 85,
+        "CREA": 85,
+        "INT": 90
+      },
+      "values": {
+        "VAR": 100,
+        "CRE": 90,
+        "LIDV": 80
+      },
+      "constraints": {
+        "EL": 2,
+        "HI": 5,
+        "PP": 4,
+        "CF": 5
+      },
+      "hardConstraints": [],
+      "specializations": [
+        "Corporativos",
+        "Sociales",
+        "Festivales"
+      ],
+      "dailyTasks": [
+        "Organizar operaciones",
+        "Atender necesidades",
+        "Resolver imprevistos"
+      ],
+      "environment": []
+    },
+    {
+      "id": "ciencias-del-deporte",
+      "name": "Ciencias del deporte",
+      "family": "Salud",
+      "hollandCode": "SRE",
+      "description": "Prevenir, evaluar o atender necesidades de salud.",
+      "interests": {
+        "R": 75,
+        "I": 18,
+        "A": 18,
+        "S": 100,
+        "E": 55,
+        "C": 18
+      },
+      "aptitudes": {
+        "MAN": 90,
+        "EMP": 70,
+        "CIE": 75,
+        "LID": 75
+      },
+      "values": {
+        "IMP": 80,
+        "VAR": 95,
+        "AUT": 70
+      },
+      "constraints": {
+        "EL": 3,
+        "TC": 5,
+        "HI": 3
+      },
+      "hardConstraints": [],
+      "specializations": [
+        "Rendimiento",
+        "Actividad física",
+        "Gestión deportiva"
+      ],
+      "dailyTasks": [
+        "Evaluar casos",
+        "Aplicar intervenciones basadas en evidencia",
+        "Acompañar a personas y familias"
+      ],
+      "environment": []
+    },
+    {
+      "id": "ciencias-ambientales",
+      "name": "Ciencias ambientales",
+      "family": "Ambiente y campo",
+      "hollandCode": "IRS",
+      "description": "Trabajar con territorio, recursos naturales o producción biológica.",
+      "interests": {
+        "R": 75,
+        "I": 100,
+        "A": 18,
+        "S": 55,
+        "E": 18,
+        "C": 18
+      },
+      "aptitudes": {
+        "CIE": 90,
+        "LOG": 75,
+        "MAN": 65,
+        "VER": 65
+      },
+      "values": {
+        "IMP": 100,
+        "VAR": 85,
+        "APR": 85
+      },
+      "constraints": {
+        "EL": 3,
+        "TC": 4,
+        "VM": 3
+      },
+      "hardConstraints": [],
+      "specializations": [
+        "Impacto ambiental",
+        "Conservación",
+        "Gestión de recursos"
+      ],
+      "dailyTasks": [
+        "Realizar trabajo de campo",
+        "Analizar condiciones ambientales",
+        "Diseñar acciones sostenibles"
+      ],
+      "environment": []
+    },
+    {
+      "id": "agronomia",
+      "name": "Agronomía",
+      "family": "Ambiente y campo",
+      "hollandCode": "IRS",
+      "description": "Trabajar con territorio, recursos naturales o producción biológica.",
+      "interests": {
+        "R": 75,
+        "I": 100,
+        "A": 18,
+        "S": 55,
+        "E": 18,
+        "C": 18
+      },
+      "aptitudes": {
+        "CIE": 85,
+        "MAN": 85,
+        "ORG": 70
+      },
+      "values": {
+        "IMP": 85,
+        "VAR": 90,
+        "AUT": 70
+      },
+      "constraints": {
+        "EL": 3,
+        "TC": 5,
+        "VM": 3
+      },
+      "hardConstraints": [],
+      "specializations": [
+        "Cultivos",
+        "Suelos",
+        "Producción sostenible"
+      ],
+      "dailyTasks": [
+        "Realizar trabajo de campo",
+        "Analizar condiciones ambientales",
+        "Diseñar acciones sostenibles"
+      ],
+      "environment": []
+    },
+    {
+      "id": "ingenieria-forestal",
+      "name": "Ingeniería forestal",
+      "family": "Ambiente y campo",
+      "hollandCode": "RIA",
+      "description": "Trabajar con territorio, recursos naturales o producción biológica.",
+      "interests": {
+        "R": 100,
+        "I": 75,
+        "A": 55,
+        "S": 18,
+        "E": 18,
+        "C": 18
+      },
+      "aptitudes": {
+        "CIE": 85,
+        "MAN": 80,
+        "ESP": 75
+      },
+      "values": {
+        "IMP": 95,
+        "VAR": 90,
+        "AUT": 65
+      },
+      "constraints": {
+        "EL": 3,
+        "TC": 5,
+        "VM": 4
+      },
+      "hardConstraints": [],
+      "specializations": [
+        "Manejo forestal",
+        "Conservación",
+        "Restauración"
+      ],
+      "dailyTasks": [
+        "Realizar trabajo de campo",
+        "Analizar condiciones ambientales",
+        "Diseñar acciones sostenibles"
+      ],
+      "environment": []
+    },
+    {
+      "id": "geografia-y-sistemas-gis",
+      "name": "Geografía y sistemas GIS",
+      "family": "Ambiente y campo",
+      "hollandCode": "IRC",
+      "description": "Trabajar con territorio, recursos naturales o producción biológica.",
+      "interests": {
+        "R": 75,
+        "I": 100,
+        "A": 18,
+        "S": 18,
+        "E": 18,
+        "C": 55
+      },
+      "aptitudes": {
+        "ESP": 90,
+        "DIG": 80,
+        "CIE": 75,
+        "LOG": 75
+      },
+      "values": {
+        "APR": 85,
+        "IMP": 85,
+        "VAR": 75
+      },
+      "constraints": {
+        "EL": 3,
+        "MT": 3,
+        "TC": 3,
+        "PN": 3
+      },
+      "hardConstraints": [],
+      "specializations": [
+        "Cartografía",
+        "Análisis espacial",
+        "Planificación territorial"
+      ],
+      "dailyTasks": [
+        "Realizar trabajo de campo",
+        "Analizar condiciones ambientales",
+        "Diseñar acciones sostenibles"
+      ],
+      "environment": []
+    },
+    {
+      "id": "seguridad-y-salud-ocupacional",
+      "name": "Seguridad y salud ocupacional",
+      "family": "Servicios y operaciones",
+      "hollandCode": "RCS",
+      "description": "Coordinar experiencias, procesos y atención con alto componente práctico.",
+      "interests": {
+        "R": 100,
+        "I": 18,
+        "A": 18,
+        "S": 55,
+        "E": 18,
+        "C": 75
+      },
+      "aptitudes": {
+        "ORG": 90,
+        "CIE": 75,
+        "MAN": 70,
+        "VER": 70
+      },
+      "values": {
+        "EST": 90,
+        "IMP": 85,
+        "VAR": 75
+      },
+      "constraints": {
+        "EL": 3,
+        "TC": 4,
+        "RS": 4,
+        "PP": 3
+      },
+      "hardConstraints": [],
+      "specializations": [
+        "Prevención",
+        "Ergonomía",
+        "Auditoría"
+      ],
+      "dailyTasks": [
+        "Organizar operaciones",
+        "Atender necesidades",
+        "Resolver imprevistos"
+      ],
+      "environment": []
+    }
+  ]
+}
