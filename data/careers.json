@@ -1,12 +1,19 @@
 {
-  "version": "2.0.0",
+  "version": "2.1.0",
   "count": 218,
+  "compact": true,
+  "families": "./data/career-families.json",
   "parts": [
-    "./data/careers-part-1.json",
-    "./data/careers-part-2.json",
-    "./data/careers-part-3.json",
-    "./data/careers-part-4.json",
-    "./data/careers-part-5.json",
-    "./data/careers-part-6.json"
+    "./data/career-seeds-01.json",
+    "./data/career-seeds-02.json",
+    "./data/career-seeds-03.json",
+    "./data/career-seeds-04.json",
+    "./data/career-seeds-05.json",
+    "./data/career-seeds-06.json",
+    "./data/career-seeds-07.json",
+    "./data/career-seeds-08.json",
+    "./data/career-seeds-09.json",
+    "./data/career-seeds-10.json",
+    "./data/career-seeds-11.json"
   ]
 }
