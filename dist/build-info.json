@@ -1,0 +1,13 @@
+{
+  "name": "brujula-vocacional",
+  "version": "2.4.0",
+  "builtAt": "2026-07-25T13:51:19.020Z",
+  "assets": {
+    "javascript": "app.c295586dc3c4.js",
+    "css": "styles.07dcf94c3952.css"
+  },
+  "questions": 149,
+  "careers": 160,
+  "families": 16,
+  "clusters": 158
+}
