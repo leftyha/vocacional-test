@@ -1,10 +1,23 @@
 {
-  "name": "brujula-vocacional-static",
-  "version": "1.0.1",
+  "name": "brujula-vocacional",
+  "version": "2.4.0",
   "private": true,
-  "description": "Prueba vocacional mobile-first completamente estática",
+  "type": "module",
+  "description": "Prueba vocacional estática con motor determinista y catálogo modular de carreras.",
   "scripts": {
-    "dev": "python server.py",
-    "start": "python server.py"
+    "dev": "node scripts/serve.mjs . --host 0.0.0.0 --port 4173",
+    "validate": "node scripts/validate-data.mjs",
+    "build": "node scripts/build.mjs",
+    "preview": "node scripts/serve.mjs dist --host 0.0.0.0 --port 4173",
+    "package": "npm run build && node scripts/package.mjs",
+    "check": "npm run validate && npm run build"
+  },
+  "devDependencies": {
+    "animejs": "3.2.2",
+    "archiver": "7.0.1",
+    "esbuild": "0.25.0"
+  },
+  "engines": {
+    "node": ">=20.11"
   }
 }
