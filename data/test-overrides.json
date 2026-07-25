@@ -1,0 +1,56 @@
+{
+  "version": "1.1.0",
+  "sharedOptions": {
+    "behavioralFrequency": [
+      {"id":"1","label":"No tengo un ejemplo real o no me ocurrió","value":1},
+      {"id":"2","label":"Me ocurrió alguna vez, con bastante ayuda","value":2},
+      {"id":"3","label":"Me ocurrió varias veces en situaciones conocidas","value":3},
+      {"id":"4","label":"Lo hice con frecuencia y con poca ayuda","value":4},
+      {"id":"5","label":"Lo demostré de forma constante y otros contaron conmigo","value":5}
+    ]
+  },
+  "questions": {
+    "b3q1":{"prompt":"En los últimos 12 meses, al comparar precios, porcentajes o cantidades, pude llegar a una respuesta correcta sin depender por completo de otra persona.","optionSet":"behavioralFrequency"},
+    "b3q2":{"prompt":"Cuando recibí una tabla, presupuesto o gráfico, logré extraer la información importante y explicarla con mis palabras.","optionSet":"behavioralFrequency"},
+    "b3q3":{"prompt":"En tareas con cálculos, detecté por mi cuenta resultados que no tenían sentido y los corregí.","optionSet":"behavioralFrequency"},
+    "b3q4":{"prompt":"Al explicar una idea difícil, adapté mis palabras hasta que la otra persona pudo seguirme.","optionSet":"behavioralFrequency"},
+    "b3q5":{"prompt":"Después de leer un texto extenso, pude resumir sus ideas centrales sin copiarlo literalmente.","optionSet":"behavioralFrequency"},
+    "b3q6":{"prompt":"Cuando tuve que escribir algo importante, organicé las ideas y revisé si el mensaje se entendía.","optionSet":"behavioralFrequency"},
+    "b3q7":{"prompt":"Ante información contradictoria, identifiqué qué afirmaciones no podían ser ciertas al mismo tiempo.","optionSet":"behavioralFrequency"},
+    "b3q8":{"prompt":"Cuando una tarea parecía demasiado grande, la dividí en pasos y avancé sin que otra persona hiciera el plan completo.","optionSet":"behavioralFrequency"},
+    "b3q9":{"prompt":"Al investigar un problema, distinguí entre una coincidencia y una causa probable.","optionSet":"behavioralFrequency"},
+    "b3q10":{"prompt":"Al montar, mover o diseñar algo, pude anticipar cómo encajarían sus partes antes de probar.","optionSet":"behavioralFrequency"},
+    "b3q11":{"prompt":"Pude orientarme o tomar decisiones usando mapas, planos, esquemas o diagramas.","optionSet":"behavioralFrequency"},
+    "b3q12":{"prompt":"Al organizar un espacio, imaginé varias distribuciones y elegí una que funcionara mejor.","optionSet":"behavioralFrequency"},
+    "b3q13":{"prompt":"Cuando escuché una explicación científica, pude distinguir la hipótesis de la evidencia usada para apoyarla.","optionSet":"behavioralFrequency"},
+    "b3q14":{"prompt":"Al comparar dos soluciones, intenté cambiar una variable a la vez para saber qué produjo el resultado.","optionSet":"behavioralFrequency"},
+    "b3q15":{"prompt":"Antes de aceptar una afirmación, busqué datos, fuentes o ejemplos que pudieran confirmarla o refutarla.","optionSet":"behavioralFrequency"},
+    "b3q16":{"prompt":"Cuando tuve que usar una aplicación nueva, aprendí sus funciones principales explorando y consultando ayuda puntual.","optionSet":"behavioralFrequency"},
+    "b3q17":{"prompt":"Ante un problema técnico, probé pasos ordenados y pude aislar al menos una causa posible.","optionSet":"behavioralFrequency"},
+    "b3q18":{"prompt":"En alguna tarea digital, convertí un proceso repetitivo en pasos, reglas o una automatización sencilla.","optionSet":"behavioralFrequency"},
+    "b3q19":{"prompt":"En trabajos grupales, adapté mi forma de comunicarme según la persona y la situación.","optionSet":"behavioralFrequency"},
+    "b3q20":{"prompt":"Cuando hubo diferencias en un equipo, contribuí a que el trabajo continuara sin ignorar el desacuerdo.","optionSet":"behavioralFrequency"},
+    "b3q21":{"prompt":"Antes de proponer una solución para otra persona, comprobé qué necesitaba realmente.","optionSet":"behavioralFrequency"},
+    "b3q22":{"prompt":"Ante alguien angustiado, pude mantenerme presente y responder sin apresurar ni minimizar lo que sentía.","optionSet":"behavioralFrequency"},
+    "b3q23":{"prompt":"En una conversación delicada, escuché antes de juzgar y confirmé que había entendido.","optionSet":"behavioralFrequency"},
+    "b3q24":{"prompt":"Cuando ayudé a alguien con un problema repetitivo, mantuve la paciencia y puse límites saludables.","optionSet":"behavioralFrequency"},
+    "b3q25":{"prompt":"Ante un problema abierto, propuse varias alternativas antes de elegir una.","optionSet":"behavioralFrequency"},
+    "b3q26":{"prompt":"Usé una idea de un área distinta para mejorar una tarea, diseño o solución.","optionSet":"behavioralFrequency"},
+    "b3q27":{"prompt":"Produje una propuesta original que otras personas pudieron reconocer como diferente y útil.","optionSet":"behavioralFrequency"},
+    "b3q28":{"prompt":"Durante un periodo con varias tareas, usé algún sistema y cumplí la mayoría de las fechas acordadas.","optionSet":"behavioralFrequency"},
+    "b3q29":{"prompt":"Antes de entregar un trabajo, detecté detalles que podían causar errores o confusión.","optionSet":"behavioralFrequency"},
+    "b3q30":{"prompt":"Al manejar documentos, datos y pendientes simultáneos, pude recuperar la información cuando la necesité.","optionSet":"behavioralFrequency"},
+    "b3q31":{"prompt":"En una actividad grupal, coordiné tareas y verifiqué avances sin hacer todo personalmente.","optionSet":"behavioralFrequency"},
+    "b3q32":{"prompt":"Cuando defendí una propuesta, usé razones y evidencia en lugar de repetir solamente mi preferencia.","optionSet":"behavioralFrequency"},
+    "b3q33":{"prompt":"En una situación con presión, tomé una decisión y asumí la responsabilidad de revisarla si era necesario.","optionSet":"behavioralFrequency"},
+    "b3q34":{"prompt":"Al usar herramientas, materiales o equipos, seguí indicaciones y mejoré con la práctica.","optionSet":"behavioralFrequency"},
+    "b3q35":{"prompt":"Aprendí un procedimiento práctico observando, probando y corrigiendo mis movimientos.","optionSet":"behavioralFrequency"},
+    "b3q36":{"prompt":"En una actividad física de precisión, mantuve coordinación y atención durante el tiempo necesario.","optionSet":"behavioralFrequency"}
+  },
+  "scoring": {
+    "interestBlockWeights":{"interests":0.42,"situations":0.58},
+    "careerWeights":{"interests":0.4,"aptitudes":0.3,"values":0.15,"constraints":0.15},
+    "rankedPoints":{"first":3,"second":1},
+    "aptitudeCalibration":{"absoluteWeight":0.55,"relativeWeight":0.3,"behavioralSupportWeight":0.15}
+  }
+}

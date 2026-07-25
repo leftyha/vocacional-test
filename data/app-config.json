@@ -3,7 +3,7 @@
     "name": "Brújula",
     "tagline": "Cinco caminos que sí se parecen a ti"
   },
-  "storageKey": "brujula-vocacional-attempt-v1",
+  "storageKey": "brujula-vocacional-attempt-v2",
   "theme": {
     "primary": "#18a97b",
     "secondary": "#6757e8",
@@ -33,6 +33,7 @@
   ],
   "diversification": {
     "maxPerFamily": 2,
-    "topPool": 20
+    "maxPerCluster": 1,
+    "topPool": 50
   }
 }
